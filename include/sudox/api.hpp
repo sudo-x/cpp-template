@@ -1,11 +1,11 @@
 /*
 C++ template repository
 Version 1.0.0
-https://github.com/mosure/cpp-template
+https://github.com/sudo-x/cpp-template
 
 MIT License
 
-Copyright (c) 2020 Mitchell Mosure
+Copyright (c) 2020 Sudo.X LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,11 +30,11 @@ SOFTWARE.
 
 
 /**
-    @brief namespace for Mitchell Mosure - cpp-template
-    @see https://github.com/mosure
+    @brief namespace for Sudo.X LLC - cpp-template
+    @see https://github.com/sudo-x
     @since version 1.0.0
 */
-namespace mosure::cpp_template {
+namespace sudox::cpp_template {
 
     struct Foo {
         int bar() {
