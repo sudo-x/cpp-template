@@ -1,9 +1,9 @@
 #include <catch2/catch.hpp>
 
-#include <mosure/api.hpp>
+#include <sudox/api.hpp>
 
 
-namespace cpp_template = mosure::cpp_template;
+namespace cpp_template = sudox::cpp_template;
 
 SCENARIO("foo scenario", "[example]") {
 
