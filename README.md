@@ -17,4 +17,4 @@ C++ Bazel template repository
 
 ## Running tests
 
-`bazel run test`
+`bazel run test --enable_platform_specific_config`
